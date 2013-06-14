@@ -1,0 +1,4 @@
+name = Cgangs Login Helper
+description = Provide helper for authentication user.
+package = Authentication
+core = 7.x
